@@ -1,0 +1,4 @@
+export const INCREASE_QTY = 'INCREASE_QTY'
+export const DECREASE_QTY = 'DECREASE_QTY'
+export const DELETE_ITEM = 'DELETE_ITEM'
+export const FETCH_STORE = 'FETCH_STORE'
